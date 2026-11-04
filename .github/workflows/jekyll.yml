@@ -65,4 +65,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 building and deploying an Academic Pages / Jekyll site to GitHub Pages
+        uses: actions/deploy-pages@v4 
