@@ -36,7 +36,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-github-metadata
 
 # Outputting
 permalink: /:categories/:title/
