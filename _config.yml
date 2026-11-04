@@ -29,7 +29,6 @@ author:
       url: "https://github.com/durandesh88-bit"
 
 # Site Settings (Jekyll)
-theme                    : "jekyll-theme-primer" # Оставляем стандартную тему для надежности
 remote_theme             : # Оставь пустым
 plugins:
   - jekyll-feed
